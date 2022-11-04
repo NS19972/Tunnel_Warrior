@@ -1,0 +1,11 @@
+Thank you to the following individuals and organizations for making this project possible.
+
+###Free Sound Libraries
+freesfx.co.uk
+soundbible.com
+
+###Online Audio Editor
+twistedwave.com
+
+Youtube users PyTutorials for creating software allowing easy convertion of .py files to .exe files,
+and user TechwithTim for explaining how to convert said files. 
